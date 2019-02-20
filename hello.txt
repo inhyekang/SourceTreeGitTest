@@ -1,4 +1,8 @@
 hello
 Hello2
 Hello3
+<<<<<<< HEAD
 master
+=======
+clone
+>>>>>>> ecc6648e3a44ab62d2d107ae43a9c38bd45e4e35
